@@ -19,3 +19,17 @@ blue
 00537A
 A8E8F9
 ```
+grey
+```
+2C3333
+```
+
+
+
+fonts:
+
+```
+Fira Sans
+Padauk
+Hind
+```
